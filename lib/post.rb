@@ -13,10 +13,6 @@ class Post
     @@all
   end
   
-  def title
-    
-  end
-  
   def author
     
   end
